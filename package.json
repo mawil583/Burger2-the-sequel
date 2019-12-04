@@ -1,0 +1,25 @@
+{
+  "name": "burger2-the-sequel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawil583/Burger2-the-sequel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mawil583/Burger2-the-sequel/issues"
+  },
+  "homepage": "https://github.com/mawil583/Burger2-the-sequel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql2": "^2.0.1",
+    "sequelize": "^5.21.2"
+  }
+}
